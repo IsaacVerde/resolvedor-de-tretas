@@ -1,0 +1,1 @@
+# resolvedor-de-tretas
